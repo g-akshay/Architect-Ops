@@ -5,9 +5,10 @@
 <p><strong>Your AI-powered Staff Engineer. Automate high-level technical leadership, not just syntax.</strong></p>
 
 <p>
-  <a href="https://github.com/akshaygundewar/architect-ops/stargazers"><img src="https://img.shields.io/github/stars/akshaygundewar/architect-ops?style=flat-square&color=FFD700&labelColor=1a1a2e" alt="Stars"></a>
-  <a href="https://github.com/akshaygundewar/architect-ops/blob/main/LICENSE"><img src="https://img.shields.io/github/license/akshaygundewar/architect-ops?style=flat-square&color=00D9FF&labelColor=1a1a2e" alt="License"></a>
+  <a href="https://github.com/g-akshay/Architect-Ops/stargazers"><img src="https://img.shields.io/github/stars/g-akshay/Architect-Ops?style=flat-square&color=FFD700&labelColor=1a1a2e" alt="Stars"></a>
+  <a href="https://github.com/g-akshay/Architect-Ops/blob/main/LICENSE"><img src="https://img.shields.io/github/license/g-akshay/Architect-Ops?style=flat-square&color=00D9FF&labelColor=1a1a2e" alt="License"></a>
   <img src="https://img.shields.io/badge/Claude%20Code-Compatible-8A2BE2?style=flat-square&labelColor=1a1a2e" alt="Claude Code">
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-Compatible-74AA9C?style=flat-square&labelColor=1a1a2e" alt="OpenAI Codex">
   <img src="https://img.shields.io/badge/Gemini%20CLI-Compatible-4285F4?style=flat-square&labelColor=1a1a2e" alt="Gemini CLI">
   <img src="https://img.shields.io/badge/Works%20With-Any%20Agentic%20CLI-22C55E?style=flat-square&labelColor=1a1a2e" alt="Agentic CLI">
 </p>
